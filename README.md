@@ -3,11 +3,17 @@ This repository contains an implementation of a RISC-V single-cycle processor, d
 
 Features:
 ✅ Implements core RV32I instructions.
+
 ✅ Single-cycle datapath and control logic.
+
 ✅ Written in Verilog.
+
 ✅ Simple and easy-to-understand design for educational use.
+
 ✅ Testbench and example programs included.
 
 This project is ideal for learning about processor design, RISC-V architecture, and digital logic implementation.
 
 🚀 Feel free to contribute, report issues, or suggest improvements!
+
+![Uploading RISC-V.png…]()
