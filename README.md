@@ -6,6 +6,8 @@ This repository contains an implementation of a RISC-V single-cycle processor, d
 
 ✅ Implements core RV32I instructions.
 
+![WhatsApp Image 2024-12-06 at 15 29 08_532705af - Copy](https://github.com/user-attachments/assets/d4f85a76-89db-4fde-89ed-08fd473ec359)
+
 ✅ Single-cycle datapath and control logic.
 
 ✅ Written in Verilog.
