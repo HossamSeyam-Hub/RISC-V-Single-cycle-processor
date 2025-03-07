@@ -1,4 +1,5 @@
-![RISC-V](https://github.com/user-attachments/assets/f33928a6-1802-4739-9546-5efa28c4cd39)# RISC-V-Single-cycle-processor
+
+# RISC-V-Single-cycle-processor
 This repository contains an implementation of a RISC-V single-cycle processor, designed to execute a subset of the RISC-V ISA (RV32I). The processor follows a single-cycle architecture, meaning each instruction completes in one clock cycle.
 
 Features:
@@ -17,3 +18,4 @@ This project is ideal for learning about processor design, RISC-V architecture, 
 
 🚀 Feel free to contribute, report issues, or suggest improvements!
 
+![RISC-V](https://github.com/user-attachments/assets/f33928a6-1802-4739-9546-5efa28c4cd39)
