@@ -1,1 +1,13 @@
 # RISC-V-Single-cycle-processor
+This repository contains an implementation of a RISC-V single-cycle processor, designed to execute a subset of the RISC-V ISA (RV32I). The processor follows a single-cycle architecture, meaning each instruction completes in one clock cycle.
+
+Features:
+✅ Implements core RV32I instructions
+✅ Single-cycle datapath and control logic
+✅ Written in Verilog/SystemVerilog (or specify your HDL)
+✅ Simple and easy-to-understand design for educational use
+✅ Testbench and example programs included (if applicable)
+
+This project is ideal for learning about processor design, RISC-V architecture, and digital logic implementation.
+
+🚀 Feel free to contribute, report issues, or suggest improvements!
